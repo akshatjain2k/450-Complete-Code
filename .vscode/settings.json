@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
+        "String",
         "Array",
-        "String"
+        "Matrix"
     ]
 }
